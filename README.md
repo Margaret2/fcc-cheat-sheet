@@ -4,7 +4,7 @@
 Below you will find a table with notes to help you review each Free Code Camp challenge. **Keywords** are in bold text. *Additional comments from me are in italics. :)*
 <!-- <ul><li><li><li></ul> -->
 
-The table is organized into 4 columns:
+The table is organized into 3 columns:
 
 | Lesson | Summary | Example Code* |
 |--- | ---| ----|
