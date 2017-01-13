@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="main.css"></link>
+<link rel="stylesheet" type="text/css" href="main.css"></link>
 ## FCC Cheat Sheet
 
 ### Guide
